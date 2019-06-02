@@ -7,3 +7,8 @@ Data/example.npy
 *.txt
 *.json
 Data/example.pkl
+Data/Part02/house_train.csv.gz
+Data/Part01/example.mat
+Data/Part01/example.npy
+Data/Part01/example.pkl
+Data/Part02/house_test.csv.gz
